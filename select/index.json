@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "令月の妖",
+  "base_artist": "ルシノ",
+  "createdAt": "2025-12-14T04:04:30.351448Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "令月の妖",
+      "artist": "ルシノ",
+      "has_synced": false,
+      "path": "select/pl_01_令月の妖_ルシノ.txt"
+    }
+  ]
+}
